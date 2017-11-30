@@ -20,6 +20,7 @@
 		9E7503AE1FBD5E7B00B0C8D3 /* BRStringConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7503AD1FBD5E7B00B0C8D3 /* BRStringConstants.swift */; };
 		9E7503B31FBD5F2A00B0C8D3 /* BRBaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7503B21FBD5F2A00B0C8D3 /* BRBaseViewController.swift */; };
 		9E7503B51FBE05AF00B0C8D3 /* BusRouteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7503B41FBE05AF00B0C8D3 /* BusRouteModel.swift */; };
+		9ECFF77C1FCFD73C00A5D964 /* SampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ECFF77B1FCFD73C00A5D964 /* SampleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		9E7503AD1FBD5E7B00B0C8D3 /* BRStringConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRStringConstants.swift; sourceTree = "<group>"; };
 		9E7503B21FBD5F2A00B0C8D3 /* BRBaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRBaseViewController.swift; sourceTree = "<group>"; };
 		9E7503B41FBE05AF00B0C8D3 /* BusRouteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusRouteModel.swift; sourceTree = "<group>"; };
+		9ECFF77B1FCFD73C00A5D964 /* SampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 		9E7503701FBD5D5400B0C8D3 = {
 			isa = PBXGroup;
 			children = (
+				9ECFF77B1FCFD73C00A5D964 /* SampleViewController.swift */,
 				9E75037B1FBD5D5400B0C8D3 /* BusRoute */,
 				9E7503931FBD5D5400B0C8D3 /* BusRouteTests */,
 				9E75039E1FBD5D5400B0C8D3 /* BusRouteUITests */,
@@ -309,6 +312,7 @@
 				9E0B5B8D1FC3495100B6C9AD /* BRUtility.swift in Sources */,
 				9E7503B31FBD5F2A00B0C8D3 /* BRBaseViewController.swift in Sources */,
 				9E75037D1FBD5D5400B0C8D3 /* AppDelegate.swift in Sources */,
+				9ECFF77C1FCFD73C00A5D964 /* SampleViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
